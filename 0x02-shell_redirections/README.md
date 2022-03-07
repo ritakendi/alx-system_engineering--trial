@@ -17,3 +17,7 @@ Task 7
 creates a file that has special characters
 Task 8 
 Saves current state of directory
+Task 9
+Duplicates last line
+Task 10
+Deletes all regular files with a .js extension
