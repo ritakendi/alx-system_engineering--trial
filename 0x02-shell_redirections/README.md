@@ -33,3 +33,5 @@ Task 15
 Displays lines containing "bin" pattern in file /etc/passwd
 Task 16
 Displays lines with "root" pattern and 3 lines after them in the file /etc/passwd
+Task 17 
+All lines inthe file /etc/password
