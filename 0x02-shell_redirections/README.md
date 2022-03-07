@@ -29,3 +29,7 @@ Task 13
 prints only word exactly once
 Task 14
 Diplays lines containing the "root" pattern from file /etc/passwd
+Task 15 
+Displays lines containing "bin" pattern in file /etc/passwd
+Task 16
+Displays lines with "root" pattern and 3 lines after them in the file /etc/passwd
