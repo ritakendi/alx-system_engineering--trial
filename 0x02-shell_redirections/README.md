@@ -5,3 +5,5 @@ Task 1
 Displays smiley
 Task 2
 Displays contents of the File /etc/passwd
+Task 3 
+Displaying two files content
