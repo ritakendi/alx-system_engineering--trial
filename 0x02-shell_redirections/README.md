@@ -21,3 +21,5 @@ Task 9
 Duplicates last line
 Task 10
 Deletes all regular files with a .js extension
+Task 11
+Counts the number of directories and subdirectories in the current directory
