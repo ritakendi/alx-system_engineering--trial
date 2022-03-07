@@ -27,3 +27,5 @@ Task 12
 displays 10 newest files
 Task 13
 prints only word exactly once
+Task 14
+Diplays lines containing the "root" pattern from file /etc/passwd
