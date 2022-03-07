@@ -23,3 +23,5 @@ Task 10
 Deletes all regular files with a .js extension
 Task 11
 Counts the number of directories and subdirectories in the current directory
+Task 10
+displays 10 newest files
