@@ -15,3 +15,5 @@ Task 6
 Displays third line of the file iacta
 Task 7 
 creates a file that has special characters
+Task 8 
+Saves current state of directory
