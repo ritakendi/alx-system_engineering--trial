@@ -11,3 +11,5 @@ Task 4
 Displaying 10 last characters of the file /etc/passwd
 Task 5 
 Displays the first 10 lines of the file /etc/passwd
+Task 6 
+Displays third line of the file iacta
