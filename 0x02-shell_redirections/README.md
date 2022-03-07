@@ -7,3 +7,5 @@ Task 2
 Displays contents of the File /etc/passwd
 Task 3 
 Displaying two files content
+Task 4
+Displaying 10 last characters of the file /etc/passwd
