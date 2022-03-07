@@ -13,3 +13,5 @@ Task 5
 Displays the first 10 lines of the file /etc/passwd
 Task 6 
 Displays third line of the file iacta
+Task 7 
+creates a file that has special characters
